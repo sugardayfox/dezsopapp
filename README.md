@@ -16,5 +16,5 @@ Active on:
 
 ## Projects
 
-- Awsome Job search--yes I know it sucks but what if...
+- [Awesome Job search](https://github.com/sugardayfox/awesome-job-search)--yes I know it sucks but what if...
 - 
